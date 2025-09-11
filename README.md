@@ -1,6 +1,6 @@
 # 💫 About Me:
 📖 I am currently working on personal projects while studying software engineering. <br>
-💻 My goal is to strengthen my expertise in web development, and I plan to expand into DevOps and data engineering after completing my four-year university program.
+💻 My goal is to strengthen my expertise in web development, and I plan to expand into cloud engineering and cloud security engineering after completing my four-year university program.
 
 
 ## 🌐 Socials:
