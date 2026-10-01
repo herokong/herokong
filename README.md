@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 I am currently working on personal projects while studying software engineering. <br>
+📖 I am currently working on personal projects while studying computer science. <br>
 💻 My goal is to strengthen my expertise in networking, and I plan to expand into cloud engineering and cloud security engineering after completing my four-year university program.
 
 
